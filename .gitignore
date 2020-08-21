@@ -1,0 +1,6 @@
+.terraform
+vagrant/.*
+vagrant/*.log
+terraform.tfstate
+terraform.tfstate.backup
+keys/*
